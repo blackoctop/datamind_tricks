@@ -27,3 +27,6 @@ try:
 
 finally:
     driver.quit()
+
+
+# OMO MAGAREAAAA
